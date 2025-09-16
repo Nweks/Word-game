@@ -1,3 +1,3 @@
 # Word-Game
 
-FThis is a python game scripts
+This is a python game scripts
